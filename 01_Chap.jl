@@ -5,4 +5,4 @@ y = rand(100,3)
 
 plot(x,y)
 
-print("Hello Fucks ~")
+# print("Hello Fucks ~")a
