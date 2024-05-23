@@ -1,4 +1,8 @@
 # gitignore file to ignore all the files the do not need to be uploaded on the github 
 
 # notebook checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# mac finder 
+
+*.DS_Store
