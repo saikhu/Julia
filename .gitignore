@@ -1,0 +1,4 @@
+# gitignore file to ignore all the files the do not need to be uploaded on the github 
+
+# notebook checkpoints
+.ipynb_checkpoints
